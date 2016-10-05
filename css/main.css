@@ -6,10 +6,25 @@ width: 70%;
 header {
 font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
 background-color: #87CEEB;
-text-color: white;
+color:white;
 border: 1px solid #E7E7E7;
 padding: 5px
 }
 
-footer {
+footer ul {
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+padding: 0px;
+margin: 0px;
+list-style: none;
+font-weight: bold;
+}
 
+nav ul {
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+border: 1px solid #F5FFFA;
+background-color: #F5FFFA;
+}
