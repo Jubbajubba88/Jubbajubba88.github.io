@@ -40,6 +40,7 @@ background-color: #1E90FF;
 nav ul li a.active {
 color:white;
 background-color: #FF00FF;
+text-decoration: underline;
 }
 
 h1 {
