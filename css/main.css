@@ -8,15 +8,7 @@ font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
 background-color: #00BFFF;
 color:white;
 border: 3px solid #E7E7E7;
-padding: 5px
-}
-
-footer ul {
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
-padding: 0px;
-margin: 0px;
-list-style: none;
-font-weight: bold;
+padding: 5px;
 }
 
 nav ul {
@@ -46,7 +38,7 @@ background-color: #1E90FF;
 }
 
 nav ul li a.active {
-color: white;
+color:white;
 background-color: #FF00FF;
 }
 
@@ -60,6 +52,29 @@ font-size: 1.5em;
 font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
 color: #40E0D0;
 }
+
+footer ul {
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+padding: 0px;
+margin: 0px;
+list-style: none;
+font-weight: bold;
+}
+
+footer ul li a {
+text-decoration: none;
+color:black;
+}
+
+footer ul li a:hover {
+ text-decoration: underline;
+}
+
+footer {
+border-top: 1px solid #9ACD32;
+font-size: 0.8em;
+}
+
 
 
 
