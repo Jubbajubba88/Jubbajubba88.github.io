@@ -50,3 +50,16 @@ color: white;
 background-color: #FF00FF;
 }
 
+h1 {
+font-size: 3em;
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+}
+
+p {
+font-size: 2em;
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+color: #40E0D0;
+}
+
+
+
