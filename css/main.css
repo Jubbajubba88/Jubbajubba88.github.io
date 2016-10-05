@@ -1,1 +1,15 @@
+body {
+margin: 50px auto; 
+width: 70%;
+}
+
+header {
+font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+background-color: #87CEEB;
+text-color: white;
+border: 1px solid #E7E7E7;
+padding: 5px
+}
+
+footer {
 
