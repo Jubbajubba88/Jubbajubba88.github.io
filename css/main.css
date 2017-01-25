@@ -18,7 +18,7 @@ padding: 0px;
 margin: 0px;
 overflow: hidden;
 border: 1px solid #D8D856;
-background-color: #2039DC;
+background-color: #D8D856;
 }
 
 nav ul li {
@@ -34,7 +34,7 @@ text-decoration: none;
 }
 
 nav ul li a:hover:not(.active) {
-background-color: #2039DC;
+background-color: #D8D856;
 }
 
 nav ul li a.active {
