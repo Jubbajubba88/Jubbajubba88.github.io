@@ -17,8 +17,7 @@ list-style-type: none;
 padding: 0px;
 margin: 0px;
 overflow: hidden;
-border: 1px solid #D8D856;
-background-color: #D8D856;
+background-color: #333;
 }
 
 nav ul li {
@@ -27,18 +26,19 @@ float: left;
 
 nav ul li a {
 display: block;
-color: black;
+color: #FFFFFF;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
+
 }
 
-nav ul li a:hover:not(.active) {
-background-color: #D8D856;
+nav ul li a:hover {
+background-color: #111;;
 }
 
 nav ul li a.active {
-color:white;
+color: #FFFFFF;
 background-color: #FF00FF;
 text-decoration: underline;
 }
