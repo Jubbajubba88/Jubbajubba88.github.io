@@ -5,7 +5,7 @@ width: 70%;
 
 header {
 font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
-background-color: #00BFFF;
+background-color: #D8D856;
 color:white;
 border: 3px solid #E7E7E7;
 padding: 5px;
@@ -18,7 +18,7 @@ padding: 0px;
 margin: 0px;
 overflow: hidden;
 border: 1px solid #9ACD32;
-background-color: #00BFFF;
+background-color: #2039DC;
 }
 
 nav ul li {
@@ -51,7 +51,7 @@ font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
 p {
 font-size: 1.5em;
 font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
-color: #40E0D0;
+color: #000000;
 }
 
 footer ul {
