@@ -3,6 +3,28 @@ margin: 60px auto;
 width: 70%;
 }
 
+#photo {
+   background-image: url('../img/wall street.jpg'); 
+   background-size: cover;
+   background-position: center center;
+   position: relative;
+   top: 0;
+   bottom: 0;
+   height: 100vh;
+   z-index: -10;
+}
+
+#photo-overlay {
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   height: 100%;
+   width: 100%;
+   z-index: -5;
+   background-color: rgba(0,0,0,0.5)
+}    
+
+
 header {
 font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
 background-color: #D8D856;
@@ -77,26 +99,5 @@ font-size: 0.8em;
 }
 
 
-#photo {
-   background-image: url('Jubbajubba88.github.io/wall street.jpg'); 
-   background-size: cover;
-   background-position: center center;
-   position: relative;
-   top: 0;
-   bottom: 0;
-   height: 100vh;
-   z-index: -10;
-}
-
-#photo-overlay {
-   position: absolute;
-   top: 0;
-   bottom: 0;
-   height: 100%;
-   width: 100%;
-   z-index: -5;
-   background-color: rgba(0,0,0,0.5)
-}    
-   
 
 
