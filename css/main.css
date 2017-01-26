@@ -77,7 +77,7 @@ font-size: 0.8em;
 }
 
 
-hero {
+#hero {
    background-image: url('.../img/wall street.jpg'); 
    background-size: cover;
    background-position: center center;
@@ -88,7 +88,7 @@ hero {
    z-index: -10;
 }
 
-hero-overlay {
+#hero-overlay {
    position: absolute;
    top: 0;
    bottom: 0;
