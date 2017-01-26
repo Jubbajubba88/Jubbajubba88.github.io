@@ -78,7 +78,7 @@ font-size: 0.8em;
 
 
 hero {
-   background-image: url('Jubbajubba88.github.io/wall street.jpg'); 
+   background-image: url('.../img/wall street.jpg'); 
    background-size: cover;
    background-position: center center;
    position: relative;
