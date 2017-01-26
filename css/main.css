@@ -80,7 +80,7 @@ body {
    margin: 0px;
 }
 
-#hero {
+hero {
    background-image: url('Jubbajubba88.github.io/wall street.jpg'); 
    background-size: cover;
    background-position: center center;
@@ -91,7 +91,7 @@ body {
    z-index: -10;
 }
 
-#hero-overlay {
+hero-overlay {
    position: absolute;
    top: 0;
    bottom: 0;
