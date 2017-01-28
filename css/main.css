@@ -5,7 +5,7 @@ width: 70%;
 
 
 header {
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 background-color: #D8D856;
 color:white;
 border: 3px solid #E7E7E7;
@@ -13,7 +13,7 @@ padding: 5px;
 }
 
 nav ul {
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 list-style-type: none;
 padding: 0px;
 margin: 0px;
@@ -46,17 +46,17 @@ text-decoration: underline;
 
 h1 {
 font-size: 3em;
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 }
 
 p {
 font-size: 1.5em;
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 color: #000000;
 }
 
 footer ul {
-font-family: 'Source Sans Pro', 'Helvetica', 'Sans-Serif';
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 padding: 0px;
 margin: 0px;
 list-style: none;
