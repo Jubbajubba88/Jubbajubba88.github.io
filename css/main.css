@@ -45,6 +45,16 @@ background-color: #FF00FF;
 text-decoration: underline;
 }
 
+nav form {
+font-size: 1.0em;
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+color: #000000;
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+}
+
 h1 {
 font-size: 3em;
 font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
