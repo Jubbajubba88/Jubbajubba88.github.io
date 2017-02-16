@@ -76,6 +76,8 @@ footer {
 border-top: 1px solid #9ACD32;
 font-size: 0.8em;
  position: fixed;
+ left:0px;
+ bottom:0px;
 }
 
 
