@@ -58,12 +58,6 @@ font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 color: #000000;
 }
 
-form {
-font-size: 1.0em;
-font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
-color: #000000;
-}
-
 table {
      width:90%;
      position: center;
@@ -109,6 +103,13 @@ div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
+}
+
+div.transbox form {
+font-size: 1.0em;
+font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+color: #000000;
+margin: 90%
 }
 
 footer ul {
