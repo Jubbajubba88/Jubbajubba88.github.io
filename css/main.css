@@ -66,6 +66,7 @@ color: #000000;
 
 table {
      width:90%;
+     position: center;
      }
 table, th, td {
      border: 1px solid black;
